@@ -172,15 +172,15 @@ Theource code of your site is pushed up to GitHub repository.
 
 On your GitHub repository,  click on **Settings**. 
 
-![Screenshot from 2021-11-01 16-41-29.png](:/f0f23af43e2e45e090d858aa09c1ebf5)
+![setting](./assets/github-setting.png)
 
 Then click **Pages** in the left sidebar.
 
-![Screenshot from 2021-11-01 16-41-39.png](:/9a56b660d6c9470ea60a973e7e873cd0)
+![pages](./assets/github-pages.png)
 
 Choose the branch and the folder you host your site. Then click `Save` button to host your site. The link to your site will show up after few seconds if you succeed.
 
-![Screenshot from 2021-11-01 16-41-52.png](:/91195f03ec0c40c2931b3ce81e704196)
+![post-pages](./assets/github-post-pages.png)
 
 If you go to the link `<user>.github.io`, you will see the site created by Jekyll. In the next section, you will config Jekyll site and add your resume
 
