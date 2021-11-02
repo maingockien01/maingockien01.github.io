@@ -14,12 +14,13 @@ title: Resume
 - LinkedIn: [in/imkevinmai](https://www.linkedin.com/in/imkevinmai/)
 
 # Technical skills
-| Category |  |
-|-----|-----|
-|Languages | Java, JavaScripty, Go, SQL, C, Assembly |
+| Category | Detail |
+| :-----: | :----- |
+| Languages | Java, JavaScripty, Go, SQL, C, Assembly |
 | Frameworks | NestJS, ExpressJS, Mongoose, React |
 | Databases | MongoDB, PostgreSQL |
 | Development tools | Linux (Ubuntu), Git, Slack |
+|------------------------------------------------|
 
 # Educaiton
 ##  B.Sc Major Computer Science (Co-op)

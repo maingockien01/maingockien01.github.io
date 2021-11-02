@@ -23,6 +23,7 @@ email: maingockien01@gmail.com
 description: This website host the resume of Kien Mai.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: GFM
 twitter_username: 
 github_username: maingockien01
 
@@ -32,8 +33,6 @@ plugins:
   - jekyll-spaceship
   - jekyll-feed
 
-kramdown:
-    input: GFM
 
 # Exclude from processing.
 # The following items will not be processed, by default.
