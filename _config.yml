@@ -29,6 +29,7 @@ github_username: maingockien01
 # Build settings
 theme: minima
 plugins:
+  - jekyll-spaceship
   - jekyll-feed
 
 kramdown:
