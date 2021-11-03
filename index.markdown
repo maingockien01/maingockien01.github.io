@@ -21,7 +21,7 @@ title: Resume
 | Databases | MongoDB, PostgreSQL |
 | Development tools | Linux (Ubuntu), Git, Slack |
 
-# Educaiton
+# Education 
 ##  B.Sc Major Computer Science (Co-op)
 - Expected graduation: 2024
 - Courses:
