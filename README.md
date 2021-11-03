@@ -1,3 +1,9 @@
+---
+
+layout: page
+title: README
+
+---
 # Hosting Site in GitHub Pages
 
 > Basic Functional Documentation: A document should, at least, answer the question of what the product is. A quick overview of the document should be able to serve as brief answer for the readers. Furthermore, the document would provide more details about the project.
