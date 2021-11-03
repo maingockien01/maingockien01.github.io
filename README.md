@@ -51,7 +51,9 @@ Otherwise, you can create a new public repository for your site. Repositories mu
 > Help other writes: GitHub allows other people to contribute to the documents. By cloning, making changes, then pushing the changes, other people can give their help to the original writers. Moreover, GitHub has a quick reviewing process for the document owner to check the changes before deciding to merge those changes with their writing. 
 
 1. Copy the Remote URL of your repo
+
 ![clone](./assets/github-clone.png)
+
 2. Open folder where you want to keep your work
 ```bash
 # clone the repo
@@ -117,16 +119,16 @@ Jekyll has made a simple site for you. What you need to do is to publish it now.
 
 1. On your GitHub repository,  click on **Settings**. 
 
-![Screenshot from 2021-11-01 16-41-29.png](:/f0f23af43e2e45e090d858aa09c1ebf5)
+![repo-setting](./assets/github-setting.png)
 
 2. Then click **Pages** in the left sidebar.
 
-![Screenshot from 2021-11-01 16-41-39.png](:/9a56b660d6c9470ea60a973e7e873cd0)
+![githut-pages-sidebar](./assets/github-pages.png)
 
 3. Choose the branch and the folder you host your site. 
 4. Then click `Save` button to host your site. The link to your site will show up after few seconds if you succeed.
 
-![Screenshot from 2021-11-01 16-41-52.png](:/91195f03ec0c40c2931b3ce81e704196)
+![github-post-pages](./assets/github-post-pages.png)
 
 If you go to the link `<user>.github.io`, you will see the site created by Jekyll.
 In the next section, you will config Jekyll site and add your resume
