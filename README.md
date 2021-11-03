@@ -202,7 +202,7 @@ git push origin
 - GitHub: [Introduction](https://kinsta.com/knowledgebase/what-is-github/)
 - GitHub Pages: [Quickstart for GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 - Jekyll: [Jekyll documentation](https://jekyllrb.com/docs/)
-- My [GitHub repository](https://github.com/maingockien01/maingockien01.github.io) , as example, hosting [my resume](https://maingockien01.github.io/). Below is the gif of my resume that is hosted on my GitHub pages.
+- My [GitHub repository](https://github.com/maingockien01/maingockien01.github.io) , as example, hosting [my resume](https://maingockien01.github.io/). Below is the gif of my resume that is hosted on my GitHub pages.  
 ![KienMai's Resume](https://media.giphy.com/media/nQjVGHGEkC92DqFm68/giphy.gif)
 
 
