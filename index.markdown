@@ -20,7 +20,6 @@ title: Resume
 | Frameworks | NestJS, ExpressJS, Mongoose, React |
 | Databases | MongoDB, PostgreSQL |
 | Development tools | Linux (Ubuntu), Git, Slack |
-|------------------------------------------------|
 
 # Educaiton
 ##  B.Sc Major Computer Science (Co-op)
